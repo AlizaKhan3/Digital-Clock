@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    background-color: black;
+}
+
+.centerClock{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:red ;
+}
+
+.clock{
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+}
